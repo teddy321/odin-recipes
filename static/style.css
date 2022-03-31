@@ -1,0 +1,28 @@
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: #D84829;
+}
+
+.links {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+	text-decoration: none; /* remove underline */
+	color: inherit; /* remove blue */
+}
